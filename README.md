@@ -4,5 +4,5 @@ author: erenakkaya
 
 
 Kullanım 
-get_t ( telefon numarası topla)
-get_m ( mail toplama )
+getir_t ( telefon numarası topla)
+getir_m ( mail toplama )
